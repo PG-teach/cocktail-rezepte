@@ -16,8 +16,6 @@
 5. Mit Sodawasser auffüllen und vorsichtig umrühren.  
 6. Mit Minze oder Limette garnieren und sofort servieren.
 
-Hier ist die alkoholfreie Variante des Mojito im gleichen Markdown‑Format, klar strukturiert und sofort einsatzbereit:
-
 # Virgin Mojito
 
 ## Zutaten
@@ -35,4 +33,5 @@ Hier ist die alkoholfreie Variante des Mojito im gleichen Markdown‑Format, kla
 4. Glas mit Eis füllen.  
 5. Mit Sodawasser (und optional alkoholfreiem Rum‑Ersatz) auffüllen.  
 6. Vorsichtig umrühren und mit Minze oder Limette garnieren.
+
 
